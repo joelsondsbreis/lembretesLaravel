@@ -1,5 +1,5 @@
 <p align="center">
-## Lembretes em Laravel
+## Lembretes em Laravel ##
 </p>
 
 <p>1-) No terminal executar dentro do diretório do projeto: composer install </p>
