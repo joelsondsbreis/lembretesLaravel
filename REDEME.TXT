@@ -1,0 +1,9 @@
+1-)No terminal executar dentro do diretório do projeto: composer install
+
+2-)Executar no mySql -> create database lembrete;
+
+3-)No terminal executar dentro do diretório do projeto: php artisan migrate
+
+4-)No terminal executar dentro do diretório do projeto: php artisan db:seed
+
+5-)Acessar o sistema com user: joeldsbreis@gmail.com password:123456
