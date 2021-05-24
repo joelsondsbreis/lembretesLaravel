@@ -12,4 +12,3 @@
 
 <p>5-) Acessar o sistema com user: joeldsbreis@gmail.com password:123456
 
-# lembretesLaravel
